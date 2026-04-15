@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/AVN-Techno/static/css/main.6757cc12.css",
-    "main.js": "/AVN-Techno/static/js/main.599ac2d3.js",
+    "main.js": "/AVN-Techno/static/js/main.00e5a620.js",
+    "static/js/991.364a2066.chunk.js": "/AVN-Techno/static/js/991.364a2066.chunk.js",
+    "static/js/182.2fda388e.chunk.js": "/AVN-Techno/static/js/182.2fda388e.chunk.js",
+    "static/js/292.97edf040.chunk.js": "/AVN-Techno/static/js/292.97edf040.chunk.js",
+    "static/js/113.ff3d20d6.chunk.js": "/AVN-Techno/static/js/113.ff3d20d6.chunk.js",
+    "static/js/615.97737cf3.chunk.js": "/AVN-Techno/static/js/615.97737cf3.chunk.js",
+    "static/js/327.06bf03e3.chunk.js": "/AVN-Techno/static/js/327.06bf03e3.chunk.js",
+    "static/js/176.a3bb9e1f.chunk.js": "/AVN-Techno/static/js/176.a3bb9e1f.chunk.js",
+    "static/js/368.a4dd0754.chunk.js": "/AVN-Techno/static/js/368.a4dd0754.chunk.js",
     "index.html": "/AVN-Techno/index.html",
     "main.6757cc12.css.map": "/AVN-Techno/static/css/main.6757cc12.css.map",
-    "main.599ac2d3.js.map": "/AVN-Techno/static/js/main.599ac2d3.js.map"
+    "main.00e5a620.js.map": "/AVN-Techno/static/js/main.00e5a620.js.map",
+    "991.364a2066.chunk.js.map": "/AVN-Techno/static/js/991.364a2066.chunk.js.map",
+    "182.2fda388e.chunk.js.map": "/AVN-Techno/static/js/182.2fda388e.chunk.js.map",
+    "292.97edf040.chunk.js.map": "/AVN-Techno/static/js/292.97edf040.chunk.js.map",
+    "113.ff3d20d6.chunk.js.map": "/AVN-Techno/static/js/113.ff3d20d6.chunk.js.map",
+    "615.97737cf3.chunk.js.map": "/AVN-Techno/static/js/615.97737cf3.chunk.js.map",
+    "327.06bf03e3.chunk.js.map": "/AVN-Techno/static/js/327.06bf03e3.chunk.js.map",
+    "176.a3bb9e1f.chunk.js.map": "/AVN-Techno/static/js/176.a3bb9e1f.chunk.js.map",
+    "368.a4dd0754.chunk.js.map": "/AVN-Techno/static/js/368.a4dd0754.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6757cc12.css",
-    "static/js/main.599ac2d3.js"
+    "static/js/main.00e5a620.js"
   ]
 }

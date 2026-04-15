@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AVN-Techno/static/css/main.6757cc12.css",
+    "main.js": "/AVN-Techno/static/js/main.599ac2d3.js",
+    "index.html": "/AVN-Techno/index.html",
+    "main.6757cc12.css.map": "/AVN-Techno/static/css/main.6757cc12.css.map",
+    "main.599ac2d3.js.map": "/AVN-Techno/static/js/main.599ac2d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6757cc12.css",
+    "static/js/main.599ac2d3.js"
+  ]
+}
